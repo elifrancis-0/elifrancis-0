@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @elifrancis-0
+# 👋 Hi, I’m Eli!
 
 - 👀 I’m interested in pyschology, finance, and AI.
 - 🌱 I’m currently learning data science with Python.
