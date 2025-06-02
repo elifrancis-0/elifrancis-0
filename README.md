@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on freelance Python work.
 - 📫 How to reach me: Mobile: (615) 964-0243 Email: elijahinocentfrancis@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have two last names, and the first one is Inocent. (Pronounced: 'Innocent')
+- ⚡ Fun fact: I have two last names, and the first one is Inocent. (Pronounced: 'Innocent') You can probably guess the second one.
 
 <!---
 elifrancis-0/elifrancis-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
